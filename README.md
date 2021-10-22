@@ -1,1 +1,1 @@
-# etch-a-sketch
+This project is meant to demonstrate use of DOM manipulation
